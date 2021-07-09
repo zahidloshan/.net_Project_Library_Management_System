@@ -1,0 +1,14 @@
+F:\C#\LibraryManagement\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+F:\C#\LibraryManagement\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+F:\C#\LibraryManagement\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+F:\C#\LibraryManagement\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LoginForm.resources
+F:\C#\LibraryManagement\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+F:\C#\LibraryManagement\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.Cache
+F:\C#\LibraryManagement\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+F:\C#\LibraryManagement\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+F:\C#\LibraryManagement\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.StudentForm.resources
+F:\C#\LibraryManagement\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.BookUserControl.resources
+F:\C#\LibraryManagement\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LibrarianForm.resources
+F:\C#\LibraryManagement\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.StudentUserControl.resources
+F:\C#\LibraryManagement\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LibrarianUserControl1.resources
+F:\C#\LibraryManagement\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csprojResolveAssemblyReference.cache
